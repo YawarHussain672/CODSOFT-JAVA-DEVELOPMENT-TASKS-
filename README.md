@@ -1,2 +1,2 @@
-# Codsoft-Java-Development-Task-1
-Number Gussing Game 
+# Codsoft-Java-Development-Tasks
+Task 1 - Number Gussing Game 
