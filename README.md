@@ -16,4 +16,4 @@ An application that imitates an ATM and where users are able to make deposits, w
 
 These projects also depict my acumen of coding and testing software applications using different programming languages and platforms. Please enjoy reading them and I assure you they will be both, interesting and informative.
 
-Please feel free to use these projects for learning purposes and knowledge gain. Happy coding.
+Please feel free to use these projects for learning purposes and knowledge gain. Happy coding!
