@@ -12,8 +12,8 @@ A simple yet useful tool for students and teachers alike, built using Java. This
 
 ## 3. ATM Interface
 
-An application that imitates an ATM and where users are able to make deposits, withdrawals and even check balances. The concept that is illustrated in this project is on object-oriented programming and graphical user interface.
+A Java-based imitation of the automated banking teller machine through which the users can carry out deposits, withdrawals, and balances check. This project proves my understandings and applying of object-oriented programming and user interface design in Java.
 
-These projects also depict my acumen of coding and testing software applications using different programming languages and platforms. Please enjoy reading them and I assure you they will be both, interesting and informative.
+These project also illustrate my capacity in designing and implementing Java language based applications with the use of Java concepts and technologies. I hope you will find them rather interesting and informative.
 
 #### Please feel free to use these projects for learning purposes and knowledge gain. Happy coding!
