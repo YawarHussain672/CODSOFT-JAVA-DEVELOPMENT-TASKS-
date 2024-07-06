@@ -8,7 +8,7 @@ A simple interactive game that will develop a program that generates a random nu
 
 ## 2. Student Grade Calculator
 
-On the whole, the pencil sharpener is a practical and relatively remarked that tool, which can be applied by both students and teachers. This calculator accepts inputs in form of the obtained grades and their corresponding weights; it then computes gives a total grade that makes it easier to monitor performance.
+An application that is rather basic, but valuable for both learners and educators; developed with Java as the programming language. Its inputs include the grades and weights of the course, thus giving a convenient way through which one can review general academic performance
 
 ## 3. ATM Interface
 
