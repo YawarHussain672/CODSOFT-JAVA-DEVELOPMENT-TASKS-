@@ -8,7 +8,7 @@ A simple interactive game that will develop a program that generates a random nu
 
 ## 2. Student Grade Calculator
 
-An application that is rather basic, but valuable for both learners and educators; developed with Java as the programming language. Its inputs include the grades and weights of the course, thus giving a convenient way through which one can review general academic performance
+A simple yet useful tool for students and teachers alike, built using Java. This calculator takes in grades and weights as input and calculates the overall grade, providing a convenient way to track academic performance
 
 ## 3. ATM Interface
 
